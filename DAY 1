@@ -1,0 +1,13 @@
+ /* First Day WE have thought just about Intro to java 
+
+--- Java was developed by a man Called james gosling at sunmicrosystem then it is given to oracle -----
+
+---- Jdk (java Development Environment) - This jre+set of developmenrt tools 
+---- jre (java runtime environment ) - this is jvm +set of libraries required --
+----- jVm (java virtual Machine) - it is used to run class file .
+
+public class hello {
+    public static void main(String[] args) {
+        System.out.println("This is prabhat");
+    }
+}
